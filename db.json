@@ -1,0 +1,25 @@
+{
+  "clientes": [
+    {
+      "nombre": "Julio Paciello Coronel",
+      "telefono": "0975468412",
+      "correo": "jpaciello@gmail.com",
+      "empresa": "CDS",
+      "id": 3
+    },
+    {
+      "nombre": "Rudy Vallejos Pereira",
+      "telefono": "0971485321",
+      "correo": "rvallejos@gmail.com",
+      "empresa": "ecom",
+      "id": 4
+    },
+    {
+      "nombre": "Yeison Gimenez",
+      "telefono": "0992682485",
+      "correo": "upxh-cmwy@hotmail.com",
+      "empresa": "npmsoft",
+      "id": 5
+    }
+  ]
+}
