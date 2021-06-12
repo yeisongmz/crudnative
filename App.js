@@ -9,7 +9,6 @@ import {
 import Inicio from './views/Inicio';
 import NuevoCliente from './views/NuevoCliente';
 import DetallesClientes from './views/DetallesClientes';
-import BarraSuperior from './components/ui/barra';
 
 import {DefaultTheme, Provider as PaperProvider} from 'react-native-paper'
 
